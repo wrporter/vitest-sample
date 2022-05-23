@@ -1,0 +1,12 @@
+{
+  "name": "deleteme",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4",
+    "vite-tsconfig-paths": "^3.4.1",
+    "vitest": "^0.12.9"
+  }
+}
